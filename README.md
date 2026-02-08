@@ -1,2 +1,0 @@
-# fintrack
-gestão financeira
